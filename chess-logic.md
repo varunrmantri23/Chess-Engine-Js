@@ -10,7 +10,7 @@ Considered the strategy for handling boundaries and discussed its application fo
 Explored alpha-beta pruning and minimax algorithms.
 Details:
 
-![Chess board ](image.png)
+![Chess board ](./image.png)
 Board Representation:
 
 The chessboard will be represented using a 64-element array.
